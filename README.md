@@ -43,4 +43,4 @@ config.py
 6. Запуск
 После указания всех настроек в config.py, запустите бота:
   ```bash
-  python main.py
+  python bot_main.py
